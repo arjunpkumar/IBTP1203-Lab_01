@@ -43,3 +43,6 @@ A pre-packaged modal presentation layout featuring customizable actions and clos
 1. Clone the repository or download the ZIP file:
    ```bash
     git clone [https://github.com/arjunpkumar/IBTP1203-Lab_01.git](https://github.com/arjunpkumar/IBTP1203-Lab_01.git)
+
+### App Walkthrough
+Refer the loom video https://www.loom.com/share/e14e7833d62d4241a5f010c16ef9c2f7
