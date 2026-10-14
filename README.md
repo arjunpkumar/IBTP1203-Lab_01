@@ -1,10 +1,3 @@
-//
-//  README.md
-//  SwiftUIComponentLibrary
-//
-//  Created by thinkpalm on 12/10/26.
-//
-
 # SwiftUI Reusable Component Library
 
 A modular library of prop-driven SwiftUI components built for iOS.
